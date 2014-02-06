@@ -1,2 +1,2 @@
-Starter Index
+starter-template
 ==================
