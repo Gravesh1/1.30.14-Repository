@@ -1,7 +1,19 @@
 /* This is how you write a comment in CSS! */
 
-* {
-  font-family: Fairview, Futura, Helvetica, Sans-Serif; /*If the first font name is not available, CSS will proceed through names until one works */ 
-   
+h1, h2 /*This controls all listed headings. (h1, h2, h3...etc)*/
+{ 
+    font-family: Futura, Sans-Serif;
+    color:#6482A8;
+    font-size: 25px;
+}
+
+p /*This controls all body text*/
+{ 
+  font-family: klinic slab, Helvetica, Sans-Serif; /*If the first font name is not available, CSS will proceed through names until one works */  
+}
+
+a /*This controls all links (anchors)*/
+{
+  font-family: klinic slab, Helvetica, Sans-Serif;
 }
 
