@@ -1,0 +1,7 @@
+/* This is how you write a comment in CSS! */
+
+* {
+  font-family: Fairview, Futura, Helvetica, Sans-Serif; /*If the first font name is not available, CSS will proceed through names until one works */ 
+   
+}
+
