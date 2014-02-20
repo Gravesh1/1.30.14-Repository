@@ -1,19 +1,33 @@
-/* This is how you write a comment in CSS! */
+body {
+    
+    background-color:#333230;
+
+
+}
 
 h1, h2 /*This controls all listed headings. (h1, h2, h3...etc)*/
 { 
-    font-family: Futura, Sans-Serif;
-    color:#6482A8;
-    font-size: 25px;
+    font-family: Duke, Mensch, Sans-Serif;
+    color:#F76700;
+    font-size: 50px;
+    text-transform:uppercase;
+ 
+    
 }
 
 p /*This controls all body text*/
-{ 
-  font-family: klinic slab, Helvetica, Sans-Serif; /*If the first font name is not available, CSS will proceed through names until one works */  
+{  /*If the first font name is not available, CSS will proceed through names until one works */  
+  font-family: Gotham, Sans-Serif;
+  font-size: 11px;
+  color:#FFFFFF;
+  letter-spacing: 1.5px; 
 }
 
 a /*This controls all links (anchors)*/
 {
-  font-family: klinic slab, Helvetica, Sans-Serif;
+  font-family: Gotham, Helvetica, Sans-Serif;
+  font-size: 11px;
+  color: #FFFFFF;
+  text-transform:uppercase;
+    
 }
-
