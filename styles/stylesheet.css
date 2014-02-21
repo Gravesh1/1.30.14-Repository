@@ -1,7 +1,7 @@
 body {
     
     background-color:#333230;
-
+text-align:center
 
 }
 
@@ -11,8 +11,7 @@ h1, h2 /*This controls all listed headings. (h1, h2, h3...etc)*/
     color:#F76700;
     font-size: 50px;
     text-transform:uppercase;
- 
-    
+
 }
 
 p /*This controls all body text*/
@@ -21,6 +20,7 @@ p /*This controls all body text*/
   font-size: 11px;
   color:#FFFFFF;
   letter-spacing: 1.5px; 
+
 }
 
 a /*This controls all links (anchors)*/
